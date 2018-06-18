@@ -1,0 +1,3 @@
+[submodule "fuel/rep0618"]
+	path = fuel/rep0618
+	url = git://github.com/norikoikarugi/rep0618.git
